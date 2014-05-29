@@ -1,7 +1,8 @@
 ---
 machine:
   ruby:
-    version: 2.0.0-p247
+    version: 1.9.3
   timezone: America/New_York
   java:
       version: openjdk7
+  
