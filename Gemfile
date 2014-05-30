@@ -3,7 +3,7 @@ gem 'cucumber'
 gem 'rspec'
 gem 'capybara'
 gem 'selenium-webdriver'
-gem "sikuli", "~> 0.2.2"
+gem "sikuli"
 gem "watir-webdriver", ">0"
 gem 'fivemat'
 gem 'rake'
