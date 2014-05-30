@@ -6,6 +6,6 @@ machine:
   java:
     version: openjdk6
   sikuli:
-    version: 0.2.4
+    apt-get install sikuli-ide
   
   
