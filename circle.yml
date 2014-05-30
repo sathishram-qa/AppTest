@@ -4,5 +4,7 @@ machine:
     version: 1.9.3
   timezone: America/New_York
   java:
-      version: openjdk7
+    version: openjdk6
+  sikuli:
+	version: 0.2.4
   
