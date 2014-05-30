@@ -8,6 +8,7 @@ gem "watir-webdriver", ">0"
 gem 'fivemat'
 gem 'rake'
 gem 'viewcumber'
+gemspec
 
 
 
