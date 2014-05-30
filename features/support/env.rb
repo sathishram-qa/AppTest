@@ -1,7 +1,6 @@
 require 'rubygems'
 require 'capybara/cucumber'
 require 'selenium-webdriver'
-require 'CSV'
 require 'java'
 require 'sikuli'
 require 'watir-webdriver'
