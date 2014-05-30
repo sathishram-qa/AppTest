@@ -4,7 +4,12 @@ machine:
     version: 1.9.3
   timezone: America/New_York
   java:
+<<<<<<< HEAD:circle.yml
     version: openjdk6
   sikuli:
 	version: 0.2.4
   
+=======
+      version: openjdk7
+  
+>>>>>>> 10b1f6064e31fde7c0d3cefcaa0f1ca94dcbec39:circle.yml
