@@ -1,8 +1,6 @@
 require 'rubygems'
 require 'capybara/cucumber'
 require 'selenium-webdriver'
-require 'win32ole'
-require 'singleton'
 require 'CSV'
 require 'java'
 require 'sikuli'
