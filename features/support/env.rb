@@ -1,7 +1,6 @@
 require 'rubygems'
 require 'capybara/cucumber'
 require 'selenium-webdriver'
-require 'sikuli'
 require 'watir-webdriver'
 
 java_import "org.sikuli.script.SikuliScript"
