@@ -5,7 +5,5 @@ machine:
   timezone: America/New_York
   java:
     version: openjdk6
-  sikuli:
-    apt-get install sikuli-ide
-  
+    
   
